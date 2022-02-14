@@ -1,2 +1,2 @@
-# eazymodtests1
-by EazyMod
+# kosl_ 's scripts (but this is used to be eazymodtests1
+yes
